@@ -37,6 +37,11 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/%f0%9f%8c%b8-welcome-to-pokepals-studio/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
